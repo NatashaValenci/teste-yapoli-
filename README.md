@@ -9,5 +9,4 @@ Content-Type: application/json
 {
     "name":"Pizza mussarela",
     "description":"Tomate e queijo"
-    
 } 
